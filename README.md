@@ -1,4 +1,5 @@
 # Todo
 
+To do list application -
 
-To do list
+Using modular JS patterns

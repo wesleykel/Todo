@@ -1,0 +1,23 @@
+#container {
+  border: 1px solid;
+  width: 50vw;
+  height: 100vh;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+
+form {
+  /*border: 1px red solid;*/
+  text-align: center;
+}
+
+form input {
+  width: 80%;
+  height: 40px;
+}
+
+form button {
+  margin-top: 30px;
+}
