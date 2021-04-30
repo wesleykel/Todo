@@ -1,7 +1,7 @@
 #container {
   border: 1px solid;
   width: 50vw;
-  height: 100vh;
+
   margin: 0 auto;
 }
 h1 {
@@ -14,10 +14,29 @@ form {
 }
 
 form input {
-  width: 80%;
+  width: 50%;
   height: 40px;
 }
 
 form button {
   margin-top: 30px;
+}
+#thing-todo {
+  font-size: 3vh;
+  text-align: left;
+}
+
+#list-item {
+  width: 70%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.new-todo {
+  border: green 1px solid;
+
+  list-style: none;
+  font-size: 3vh;
+  margin-left: -40px;
+  margin-top: 15px;
 }
