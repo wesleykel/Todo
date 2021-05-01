@@ -40,3 +40,12 @@ form button {
   margin-left: -40px;
   margin-top: 15px;
 }
+
+.del-button {
+  border: blue solid 1px;
+  float: right;
+}
+
+#date-class {
+  color: blue;
+}
