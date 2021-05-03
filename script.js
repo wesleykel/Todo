@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let arrayOfThings = [];
 
 function displayTodo() {
@@ -30,3 +31,5 @@ if (delBut === null) {
 }
 const but = document.querySelector(".b1");
 but.addEventListener("click", displayTodo, false);
+=======
+>>>>>>> parent of 2c4cd1a... All functions  work
